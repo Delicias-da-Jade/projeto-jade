@@ -1,1 +1,1 @@
-https://henriq-dev.github.io/delicias-da-jade/index.html
+https://delicias-da-jade.github.io/projeto-jade/
