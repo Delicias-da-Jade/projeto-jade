@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 67a69e7be86c69b4d602440a4bdd830825430807
 # 🍰 Delícias da Jade
 
 > Bolos artesanais feitos com amor e dedicação em Porto Velho, RO.
@@ -59,4 +63,8 @@ Desenvolvido por **[henriq-dev](https://github.com/henriq-dev)** — estudante d
 
 ---
 
+<<<<<<< HEAD
 <p align="center">Feito com 💜 e muito carinho</p>
+=======
+<p align="center">Feito com 💜 e muito carinho</p>
+>>>>>>> 67a69e7be86c69b4d602440a4bdd830825430807
